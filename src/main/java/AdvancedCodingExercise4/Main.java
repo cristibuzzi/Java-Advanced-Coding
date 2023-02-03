@@ -1,4 +1,4 @@
-package ex4;
+package AdvancedCodingExercise4;
 
 /**
  * Create a class imitating a weapon magazine.

@@ -1,4 +1,4 @@
-package ex1;
+package AdvancedCodingExercise1;
 
 import java.util.ArrayList;
 import java.util.List;

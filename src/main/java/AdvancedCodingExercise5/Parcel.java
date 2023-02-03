@@ -1,4 +1,4 @@
-package ex5;
+package AdvancedCodingExercise5;
 
 public class Parcel {
     private int xLength;

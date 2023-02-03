@@ -1,4 +1,4 @@
-package ex7;
+package AdvancedCodingExercise7;
 
 /**
  * Create a Manufacturer class that will contain fields: name, year of establishment, country.
@@ -8,7 +8,6 @@ package ex7;
  * Include all necessary methods and constructor parameters. Implement the hashcode() and equals() methods.
  */
 
-import java.sql.SQLOutput;
 import java.util.List;
 
 /**

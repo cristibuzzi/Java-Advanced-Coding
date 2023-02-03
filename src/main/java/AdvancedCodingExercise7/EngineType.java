@@ -1,4 +1,4 @@
-package ex7;
+package AdvancedCodingExercise7;
 
 public enum EngineType {
 

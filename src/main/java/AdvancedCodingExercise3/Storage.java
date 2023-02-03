@@ -1,4 +1,4 @@
-package ex3;
+package AdvancedCodingExercise3;
 
 import java.util.ArrayList;
 import java.util.HashMap;

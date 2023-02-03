@@ -1,4 +1,4 @@
-package ex6;
+package AdvancedCodingExercise6;
 
 /**
  * Create a Point2D class with fields double x, double y, getters, setters and constructor.

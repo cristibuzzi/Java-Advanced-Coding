@@ -1,4 +1,4 @@
-package ex6;
+package AdvancedCodingExercise6;
 
 public interface Resizable {
 

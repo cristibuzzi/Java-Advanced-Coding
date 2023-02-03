@@ -1,4 +1,4 @@
-package ex2;
+package AdvancedCodingExercise2;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package ex6;
+package AdvancedCodingExercise6;
 
 public class Point2D implements Movable {
     private double x;
